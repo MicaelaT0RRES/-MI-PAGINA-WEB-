@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MAYSHA MICAELA TORRES COASACA</title>
+</head>
+<style>
+    body {
+      background-color: #6f28c7;
+      color: #c219cf;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #2062e6;
+    }
+    a {
+      color: #2cdbdb;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #ffb482;
+    }
+    img {
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+  </style>
+</head>
+
+<body>
+  <h1>MAYSHA MICAELA TORRES COASACA</h1>
+  <img src="foto.jpg" alt="Mi Foto" width="200">
+
+  <p>Estudio la carrera de <a href="https://example.com">Ingeniería Industrial</a>.</p>
+
+  <p>Llevo el curso de <a href="https://cs.uns.edu.pe/docentes/ecuadros">Introducción a la Ciencia de la Computación</a> con el profesor Ernesto Cuadros.</p>
+
+  <h2>Mi grupo</h2>
+  <ul>
+    <li><a href="https://pagina-de-companero1.com">Nombre Completo 1</a></li>
+    <li><a href="https://pagina-de-companero2.com">Nombre Completo 2</a></li>
+    <li><a href="https://pagina-de-companero3.com">Nombre Completo 3</a></li>
+  </ul>
+</body>
+</html>
